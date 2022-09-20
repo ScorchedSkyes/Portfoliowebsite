@@ -3,9 +3,10 @@ html, body {
   width: 100%;
 }
 
-img {
-  width:450px;
-}
+img {  
+max-width: 100%;  
+height: auto;  
+}  
 
 body{
   background-color: #e0e0e0;
@@ -37,7 +38,7 @@ h3{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 20%;
 }
 p{
   font-family:cursive, fantasy;
